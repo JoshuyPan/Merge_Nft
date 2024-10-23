@@ -1,4 +1,4 @@
-### <span style="color: grey;">MERGE NFT GAME</span> ###
+### <span style="color: grey;"> MERGE NFT GAME </span> ###
 
 The hint:
 
